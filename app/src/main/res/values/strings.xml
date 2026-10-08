@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">B-Navi</string>
+    <string name="btn_stop">Stop Scan</string>
+    <string name="btn_start">Start Scan</string>
+</resources>
